@@ -9,6 +9,15 @@ body {
   background: darkmagenta;
   color: white;
 }
+.main {
+  display: flex;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
 
 .footer {
   height: 72px;
